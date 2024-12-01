@@ -98,7 +98,7 @@ def reset(delete = True):
 
 # Tạo giao diện
 root = tk.Tk()
-root.title("Phát hiện vũ khí - Ứng dụng YOLOv8")
+root.title("Phát hiện vũ khí")
 root.geometry("1200x720")
 
 # Căn giữa cửa sổ
